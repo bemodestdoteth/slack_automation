@@ -14,7 +14,7 @@
     - 퍼블릭 채널일 경우 `app.py`의 main() 함수에서 `private=False`로 설정
 3. `pip install -r requirements.txt`
 4. `python -m app.py`
-5. 실행 과정에서 구글 로그인 화면이 뜬다면, 구글 클라우드 프로젝트를 만든 계정으로 로그인
+5. 실행 과정에서 구글 로그인 화면이 뜬다면, 성글 어드민 계정으로 로그인
 6. 성공적으로 작동했다면, "Data written to sheet successfully" 문구가 출력
 
 ### 글 트래킹 시트 작성 포맷
